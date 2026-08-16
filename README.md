@@ -9,7 +9,6 @@
 <img align="" img src="https://github.com/fuminoomi/testingforikko/blob/main/download_-_2026-08-14T210801.987.png?raw=true" width="300">
 </div>
 
-$${\color{#41d2e5}DR \color{#23bada}Y \space \color{#1a9cc7}YO \color{#107bae}UR \space \color{#0e5e9c}EY \color{#0e4e91}ES  }$$
 
 
 
