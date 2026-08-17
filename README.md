@@ -10,7 +10,7 @@
 
 
 <p align="center">
-$\color{#FCE1F0}{\textsf{— — — — — — — — — ° · Ɛs ☆ ໒꒱ · ° — — — — — — — — —}}$ 
+$\color{#8C4B70}{\textsf{— — — — — — — — — ° · Ɛs ☆ ໒꒱ · ° — — — — — — — — —}}$ 
 </p>
 
 <!-- bullshit-->
@@ -30,15 +30,34 @@ $\color{#8C4B70}{\textsf{₊⊹}}$
 </p>
 
 <p align="center">
-$\color{#FCE1F0}{\textsf{﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌}}$ 
+$\color{#8C4B70}{\textsf{﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌}}$ 
 </p>
 
+  <!-- External Profile Links -->
+  <p align="center">
+    $\color{#FCE1F0}{\textsf{८Ɛ}}$
+    <a href="https://rentry.co/YOUR_LINK"><b><u>RENTRY</u></b></a> 
+     $\color{#F6AEE0}{\textsf{. )є˚}}$
+    <a href="https://atabook.org/YOUR_LINK"><b><u>ATABOOK</u></b></a> 
+    $\color{#ED9AD0}{\textsf{. )є˚}}$
+    <a href="https://strawpage.com/YOUR_LINK"><b><u>STRAWPAGE</u></b></a> 
+   $\color{#C672A0}{\textsf{ 3ა}}$
+  </p>
 
+  <p align="center">
+    $\color{#FCE1F0}{\textsf{८Ɛ}}$
+    <a href="https://github.com/opaaaa/ty-pt-walk-of-fame"><b><u>ty pt-walk-of-fame</u></b></a>
+     $\color{#F6AEE0}{\textsf{. )є˚}}$
+    <a href="https://github.com/opaaaa/pt-fashion"><b><u>pt-fashion</u></b></a> 
+    $\color{#ED9AD0}{\textsf{. )є˚}}$
+    <a href="https://github.com/opaaaa/and-pt-nominations"><b><u>and pt-nominations</u></b></a> 
+   $\color{#C672A0}{\textsf{ 3ა}}$
+  </p>
 
 
 
 <p align="center">
-$\color{#FCE1F0}{\textsf{— — — — — — — — — ° · Ɛs ☆ ໒꒱ · ° — — — — — — — — —}}$ 
+$\color{#8C4B70}{\textsf{— — — — — — — — — ° · Ɛs ☆ ໒꒱ · ° — — — — — — — — —}}$ 
 </p>
 
 
